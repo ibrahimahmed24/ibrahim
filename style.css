@@ -1,0 +1,345 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.img-rera {
+   width: 100%;
+   height:600px;
+}
+.img-rera .blue_bg{
+    position: relative;
+    width: 100%;
+   height: 600px;
+}
+.div-ab{
+    
+    position: absolute;
+   display: flex;
+    top: 30px;
+    right: px;
+    bottom: px;
+    left: 50px;
+    width: 20%;
+    height: 30px;
+    
+   
+    margin-left: 25px;
+   
+}
+.div-ab a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: rgb(0, 0, 0);
+}
+.img-smol .smol{
+    position: absolute;
+    top: 10px;
+    bottom: 5px;
+    left:25px;
+    width: 75px;
+    height: 75px;
+
+}
+.ligan1{
+ position: absolute;
+  top: 30px;
+  right: 200px;
+  background-color: rgb(242, 244, 246);
+}
+.ligan1 .logan2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(45, 43, 43);
+    width: 50px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 50px;
+}
+.ligan1 .logan2:hover{
+    background-color: rgb(174, 173, 172);
+    outline: none;
+}
+.img-rera  .h33-p{
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    
+}
+.img-rera  .h33-p h3{
+    font-size:60px;
+    color: rgb(97, 97, 97);
+    margin-bottom: 15px;
+    margin-left: px;
+
+}
+.img-rera .spa{
+    color: rgb(226, 43, 189);
+
+}
+.img-rera  .h33-p p{
+    font-size: 40px;
+    color: #8b8b8b;
+}
+.img-rera .why1{
+    
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 60px;
+    right: 160px;
+    bottom:0 px;  
+}
+.Mask {
+    width: 350px;
+    height:200 px;
+  position: absolute;
+   top: 0px;
+    right: 250px;
+    bottom: px;  
+
+}
+.clouds{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 450px;
+    right: 300px;
+    bottom: px;  
+}
+.waves{
+    height: 200px;
+    width: 60%;
+   position: absolute;
+   bottom: 100px;
+   left: 170px;
+z-index: -1;
+
+}
+
+.medil{
+width: 100%;
+height: 800px;
+position: relative;
+
+
+}
+
+.second_{
+  width: 50%;
+  height: px;
+  position:absolute;
+ right: 250px;
+
+}
+.medil .Grou{
+    width: 30%;
+    height: 200px;
+    position: absolute;
+    top: 20px;
+    left: 320px;
+}
+.medil .Grou h2{
+  color: rgb(121, 115, 115);
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
+.medil.Grou p{
+    color: rgb(186, 186, 186);
+}
+.medil .Grou  .ppp{
+    margin-left: 25px;
+}
+.medil .Group2{
+    width: 30%;
+    height: 200px;
+    position: absolute;
+    top: 100px;
+    left: 750px;
+
+}
+ .medil .Group2 .Group3{
+    width: 200px;
+    height:200 px;
+
+ }   
+
+.medil .Group2 h1{
+color: #484747;
+font-size: 25px;
+margin-bottom: 5px;
+}
+
+.medil .Group2 .p-55{
+    margin-left: 20px;
+}
+.medil .Group2 p{
+    color: rgb(126, 125, 122);
+}
+.medil  .Group10-20{
+    width: 30%;
+    height: 200px;
+    position: absolute;
+    right: 50px;
+    bottom: 300px;
+}
+.medil  .Group10-20 h1{
+    margin-left: 60px;
+    color: #5c5c5c;
+}
+.medil  .Group10-20 p{
+    color: #8b8b8b;
+}
+.medil  .Group10-20 .pp1{
+    margin-left: 15px;
+}
+
+
+.medil .landing{
+    width: 300PX;
+    height: 300PX;
+    position: absolute; 
+    bottom: 200PX;
+    left: 300PX;
+}
+.medil .landing2{
+    color: aliceblue;
+    font-size: 15PX;
+position: absolute;
+bottom:360PX;
+left: 350PX;
+}
+.medil  .landing3{
+    color: rgb(244, 244, 245);
+position: absolute;
+bottom:320PX;
+left: 350PX;
+}
+.medil  .Group-end1{
+    width: 130px;
+    height: 130px;
+    position:absolute;
+    bottom:20px;
+    left:400px;
+   
+}
+.medil  .Group-end2{
+    width: 250px;
+    height: 250px;
+    position:absolute;
+    
+    bottom:30px;
+    right:600px;
+}
+.medil  .Group-end3{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    right:300px;
+    bottom:2px;
+}
+.medil .Round-5{
+   
+    position: absolute;
+    top: 750px;
+    right:550px;
+   
+}
+.medil .Round-5 .Round-h2{
+margin-bottom: 20px;
+color: #8b8b8b;
+}
+.medil .Round-5 p{
+   color: #8b8b8b;
+   margin-left: 20px;
+}
+.medil .Round-5  .p600{
+    margin-left: 50px;
+}
+
+.butt{
+    width:100%;
+    height:400px;
+    position:relative;
+}
+.butt .Group-1131{
+    position:absolute;
+    z-index:-1;
+   width:100%;
+   height:600px; 
+}
+.butt  .apal1{
+position:absolute;
+top:340px;
+left:170px;
+}
+.butt  .apal1 .but66{
+    width: 100px;
+    margin: 5px;
+    padding: 10px;
+    background-color: aliceblue;
+    color: rgb(88, 87, 87);
+    z-index: -1;
+    border-radius: 10px;
+}
+ .butt  .appie{
+    width: 25px;
+    height: 25px;
+    position:absolute;
+    top:13px;
+    left:10px;
+    text-decoration:none;
+} 
+.butt .play-{
+    width: 25px;
+    height: 25px;
+    position:absolute;
+    top:17px;
+    left:130px;
+}
+.butt .instg{
+
+    display: flex;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 420px;
+    left:200px;
+}
+.butt  .instg img{
+    
+    width:25px;
+    height:25px;
+    margin-right: 10px;
+}
+.butt .div-ab5{
+    position: absolute;
+   top:470px;
+    left:200px;
+}
+.butt .div-ab5 a{
+    color: rgb(247, 251, 255);
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 0px;
+}
+.butt  .imd-end{
+    width: 700px;
+    height: 500px;
+    position: absolute;
+   top: 100px;
+    right: 120px;
+}
+.butt .apal1 .h33{
+position:absolute;
+bottom: 18px;
+left: 35px;
+color: #5a5a5a;
+font-size: 25px;
+}
+.butt .apal1 .h44{
+position: absolute;
+bottom:18px;
+left: 160px;
+color: #5c5c5c;
+font-size: 25px;
+}
